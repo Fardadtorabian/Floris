@@ -1,0 +1,9 @@
+Identifiant de connexion Client :
+client@floris.com
+Mot de passe : 
+client159
+
+Identifiant de connexion Backoffice : 
+admin
+Mot de passe : 
+admin
